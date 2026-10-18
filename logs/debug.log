@@ -1,0 +1,6 @@
+2026-10-11 20:18:28,271 [main] FATAL TestCaculate - result is: 8
+2026-10-11 20:18:28,276 [main] ERROR TestCaculate - result is: 8
+2026-10-11 20:18:28,277 [main] WARN TestCaculate - result is: 8
+2026-10-11 20:18:28,277 [main] INFO TestCaculate - result is: 8
+2026-10-11 20:18:28,278 [main] DEBUG TestCaculate - result is: 8
+2026-10-11 20:18:28,278 [main] TRACE TestCaculate - result is: 8
