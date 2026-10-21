@@ -1,3 +1,5 @@
+package org.example;
+
 public class caculate {
 
     public int add(int a, int b){

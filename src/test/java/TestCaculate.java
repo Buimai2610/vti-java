@@ -1,8 +1,8 @@
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+import org.example.caculate;
 import org.junit.jupiter.api.*;
 import org.junit.jupiter.api.condition.EnabledIfSystemProperty;
-import org.junit.jupiter.params.ParameterizedClass;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.*;
 
@@ -15,7 +15,7 @@ import static org.junit.jupiter.api.Assertions.*;
 public class TestCaculate {
     /* */
     static  Logger logger = LogManager.getLogger(TestCaculate.class);
-    static  caculate caculate;
+    static caculate caculate;
     String friut, price;
 //    TestCaculate(String fruit, String price){
 //        this.friut = fruit;

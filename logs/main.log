@@ -538,3 +538,14 @@ Start Testing case Optional[void TestCaculate.testValueSource(int)]
 Start Testing case Optional[void TestCaculate.testValueSource(int)] 
 remove caculator object null
 r2  null
+[2026-10-21 20:36:10] [ForkJoinPool-1-worker-1] [DEBUG] [org.example.Jdbc_mysqlTest] - Connection is: 
+[2026-10-21 21:04:55] [ForkJoinPool-1-worker-1] [INFO] [org.example.DatabaseConnection] - Connecting to DB: school_management
+[2026-10-21 21:07:37] [ForkJoinPool-1-worker-1] [INFO] [org.example.DatabaseConnection] - Connecting to DB: school_management
+[2026-10-21 21:20:10] [ForkJoinPool-1-worker-1] [INFO] [org.example.DatabaseConnection] - Connecting to DB: school_management
+[2026-10-21 21:23:16] [ForkJoinPool-1-worker-1] [INFO] [org.example.DatabaseConnection] - Connecting to DB: school_management
+[2026-10-21 21:28:21] [ForkJoinPool-1-worker-1] [INFO] [org.example.DatabaseConnection] - Connecting to DB: school_management
+[2026-10-21 21:29:04] [ForkJoinPool-1-worker-1] [INFO] [org.example.DatabaseConnection] - Connecting to DB: school_management
+[2026-10-21 21:30:14] [ForkJoinPool-1-worker-1] [INFO] [org.example.DatabaseConnection] - Connecting to DB: school_management
+[2026-10-21 21:32:34] [ForkJoinPool-1-worker-1] [INFO] [org.example.DatabaseConnection] - Connecting to DB: school_management
+[2026-10-21 21:32:52] [ForkJoinPool-1-worker-1] [INFO] [org.example.DatabaseConnection] - Connecting to DB: school_management
+[2026-10-21 21:46:58] [ForkJoinPool-1-worker-1] [INFO] [org.example.DatabaseConnection] - Connecting to DB: school_management
